@@ -1,0 +1,47 @@
+html {
+  background-color: #c13b2c;
+}
+.main-background {
+ background-image: url('../image/flow-left.jpg');
+ background-size: cover;
+ background-color: #c13b2c;
+ height: 525px;
+ position:relative;
+ background-position:50% 50%;
+ width: 100%;
+}
+.header{
+  background-color:#c13b2c;
+  height: 80px;
+  width:100%;
+}
+.logo{
+  left:252px;
+  width:80px;
+  position:relative;
+  box-shadow:4px 3px #8f2017;
+}
+.header-Flower-left{
+  background-image:url('../image/left.png')
+  height: 106px;
+  width:248px;
+  left:0px;
+}
+.header-Flower-right{
+  background-image:url('../image/right.png')
+  height:106px;
+  right:650px；
+  width:150px;
+}
+.navigationTabs{
+  height: 23px;
+  width: 23px;
+  background: #515151;
+  border-radius: 5px;
+  box-shadow: 0px 1px 0px 0px #727272 inset,0px 2px 0px #000000;
+  float: right;
+  position: relative;
+  right: 3px;
+  bottom: -3px;
+
+}
